@@ -18,5 +18,5 @@ The data was extracted from the Kaggle:
    * [Modeling](https://github.com/fsoytemiz/Employee-Attrition/blob/main/Notebooks/Modeling.ipynb)
    
 3. Documents: This folder contains proeject documentation.
-   * [Final Report](https://github.com/fsoytemiz/Employee-Attrition/blob/main/Documents/Predicting%20Employee%20Attrition.pdf)
-   * [Presentation](https://github.com/fsoytemiz/Employee-Attrition/blob/main/Documents/Predicting%20Employee%20Attrition.pptx)
+   * [Final Report](https://github.com/fsoytemiz/Employee-Attrition/blob/main/Documents/Predicting%20Employee%20Attrition%20-%20Report.pdf)
+   * [Presentation](https://github.com/fsoytemiz/Employee-Attrition/blob/main/Documents/Predicting%20Employee%20Attrition%20-%20Presentation.pdf)
