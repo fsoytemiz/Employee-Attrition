@@ -10,7 +10,7 @@ The data was extracted from the Kaggle:
 
 1. Data: This folder contains the dataset.
   
-   * [Dataset](https://github.com/fsoytemiz/Employee-Attrition)
+   * [Dataset](https://github.com/fsoytemiz/Employee-Attrition/tree/main/Data)
   
 2. Notebooks: This folder contains the data analysis and modeling codes for machine learning algorithms used for this project. 
 
