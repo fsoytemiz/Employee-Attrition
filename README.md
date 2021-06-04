@@ -1,4 +1,4 @@
-# IBM Emplyee Attrition Project
+# IBM Employee Attrition Project
 
 This folder contains the work for an IBM HR Analytics Employee Attrition & Performance project. 
 The goal of this project is to predict the attrition of the company's employees and understand the underlying factors that lead to employee attrition.
